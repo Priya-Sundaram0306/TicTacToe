@@ -1,4 +1,3 @@
-
 This project is a Tic Tac Toe game built using Python with Tkinter for the graphical interface. Instead of playing in the console with text input and output, you play in a real game window with buttons. You are Player X, and the computer is O. The game lets you control who starts first (Player or CPU) and the difficulty (Easy or Hard) using dropdown menus.
 
 In Easy mode, the CPU plays random moves. In Hard mode, the CPU uses the Minimax algorithm, which makes it unbeatable.
